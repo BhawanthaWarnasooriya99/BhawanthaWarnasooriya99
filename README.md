@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Bhawantha Warnasooriya</h1>
 <h3 align="center">A passionate QA Automation Engineer from Sri Lanka</h3>
 
-- 👯 I’m looking to collaborate on **QA Automation Open Source Projects**
+- 👯 I’m looking to collaborate on **Selenium Open Source Projects**
 
 - 🤝 I’m looking for help with **QA Automation**
 
@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pasinduwarnasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pasinduwarnasooriya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22412226/pasindu-warnasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22412226/pasindu-warnasooriya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasinduwarnasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasinduwarnasooriya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22412226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22412226" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
