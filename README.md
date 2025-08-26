@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Bhawantha Warnasooriya</h1>
 <h3 align="center">A passionate QA Automation Engineer from Sri Lanka</h3>
 
-- 👯 I’m looking to collaborate on **Selenium Open Source Projects**
+- 👯 Open to collaborating on **Selenium and Playwright open-source** projects.
 
 - 🤝 I’m looking for help with **QA Automation**
 
